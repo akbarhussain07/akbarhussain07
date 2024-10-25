@@ -1,7 +1,7 @@
 ![logo](https://github.com/akbarhussain07/akbarhussain07/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Akbar Hussain</h1>
 <h3 align="center">A Fronted Web Developer</h3>
-<img align=”right” alt=”Git” width=”400” src=”https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966”>
+<img align=”right” alt=”Git” width=”400” src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🔭 I’m currently working on [Cybersecurity](PHISHING AWARENESS TRAINING)
 
